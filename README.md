@@ -7,14 +7,13 @@
 
 ## Author
 
-**Jon Schlinkert**
+**Buhari Abubakar**
 
-+ [github/jonschlinkert](https://github.com/jonschlinkert)
-+ [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
++ [github/buhari15](https://github.com/buhari15)
 
 ## License
 
-Copyright © 2015 Jon Schlinkert
+Copyright © 2021 Buhari Abubakar
 Released under the MIT license.
 
 ***
